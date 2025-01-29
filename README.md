@@ -1,4 +1,4 @@
 captainwebhook
 ==============
 
-Experimenting with webhooks.
+Experimenting with webhooks to proxy servers.
